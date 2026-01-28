@@ -164,6 +164,7 @@ Open **index.html** in any browser
 </html>
 
 ```
+---
 
 | Category    | BMI Range   |
 | ----------- | ----------- |
@@ -171,11 +172,30 @@ Open **index.html** in any browser
 | Normal      | 18.6 – 24.9 |
 | Overweight  | 25 – 29.9   |
 
+---
+---
 
- # 🔗 Connect with JtnTech
+<div align="center">
 
-📺 **YouTube:** https://www.youtube.com/@jatintrails
+### 🚀 Follow & Support **JtnTech**
 
-💻 **GitHub:** https://github.com/JtnTech
+<a href="https://github.com/JtnTech">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@JatinTrails">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/firstcodejatin">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-- ⭐ If this repo helped you, don’t forget to star it and subscribe!
+<br><br>
+
+⭐ **Star this repo** if it helped you  
+📺 **Subscribe on YouTube for Cloud & DevOps labs**  
+💡 **Learn • Build • Deploy with JtnTech**
+
+</div>
+
+---
+
