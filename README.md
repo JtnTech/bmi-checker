@@ -39,9 +39,9 @@ bmi-calculator/
 
 Open **index.html** in any browser
 
-Enter:
-Height in CM
-Weight in KG
+- Enter:
+**Height** in CM
+**Weight** in KG
 
 - Click Calculate
 - Toggle **Dark Mode** if you like 🌙
