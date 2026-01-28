@@ -192,7 +192,7 @@ Open **index.html** in any browser
 <br><br>
 
 ⭐ **Star this repo** if it helped you  
-📺 **Subscribe on YouTube for Cloud & DevOps labs**  
+📺 **Subscribe on YouTube**  
 💡 **Learn • Build • Deploy with JtnTech**
 
 </div>
